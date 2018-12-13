@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StudentSystem</string>
+    <string name="学生id">学生id</string>
+    <string name="联系电话">联系电话</string>
+    <string name="姓名">name</string>
+    <string name="全部删除">delete</string>
+    <string name="保存到云服务器">save</string>
+</resources>
